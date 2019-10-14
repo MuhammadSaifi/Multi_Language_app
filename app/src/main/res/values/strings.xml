@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Multi_Language_app</string>
+    <string name="detail">This App Created in Android Studio.\n
+    But this contain Kotlin Code in it.\n
+    Purpose of this app is to change \nthe languages of our app.</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Multi_Language_app</string>
+    <string name="detail">
+
+    Cette application créée dans Android Studio. \n
+    Mais cela contient du code Kotlin. \n
+        Le but de cette application est de changer \nles langues de notre application.</string>
+</resources>
